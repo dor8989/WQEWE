@@ -1,0 +1,11 @@
+Model Information:
+* title:	酸辣海鮮米線
+* source:	https://sketchfab.com/3d-models/0c2fc9927c464da988a2fba7035de327
+* author:	Ben  hé  Lin (https://sketchfab.com/Forbunid)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "酸辣海鮮米線" (https://sketchfab.com/3d-models/0c2fc9927c464da988a2fba7035de327) by Ben  hé  Lin (https://sketchfab.com/Forbunid) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
